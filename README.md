@@ -2,7 +2,7 @@ Eco-Friendly Car E-Commerce Website
 
 A modern and interactive e-commerce website focused on eco-friendly vehicles, designed to deliver a smooth and engaging shopping experience with advanced UI/UX and animations.
 
-🔗 Live Demo: https://error-404-reimagine-round2.vercel.app/
+ Live: https://error-404-reimagine-round2.vercel.app/
 
 Features
 
